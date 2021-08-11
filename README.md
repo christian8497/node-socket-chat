@@ -1,8 +1,10 @@
-# Notas:
+# Socket chat
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Proyecto base para aplicacion de chat
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+### Notas:
+
+Recuerden reconstruir los modulos de Node
 
 ```
 npm install
